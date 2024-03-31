@@ -6,7 +6,7 @@
 ##### Awards: 
 This Project achieved second place in the final project competition of the deep learning course at Ben-Gurion University of the Negev as part of our master's degree studies in data science. The selection of the winning projects was made by a panel of three BGU faculty members with extensive deep-learning expertise.
 
-
+The event and awards were sponsored by Amazon Web Services (AWS)!
 <br/>
 
 ##### Description: 
@@ -19,7 +19,7 @@ Hence, connecting a subset of prior layers offers a viable alternative to full D
    
 ###
 ##### Keywords: 
-deep learning, CNN, DenseNet, project, Connected Convolutional Networks
+deep learning, CNN, DenseNet, project, Connected Convolutional Networks, 
 ###
 
 ##### By Ofir Azulay & Moshe Cohen
