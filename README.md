@@ -1,7 +1,7 @@
 
 # Systematic Disconnection in Densely Connected Convolutional Networks - DenseNet
 
-### Deep_Learning_Course
+### Deep_Learning_Course 
 
 ##### Awards: 
 This Project achieved second place in the final project competition of the deep learning course at Ben-Gurion University of the Negev as part of our master's degree studies in data science. The selection of the winning projects was made by a panel of three BGU faculty members with extensive deep-learning expertise.
